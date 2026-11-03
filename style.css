@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 70%;
+  margin: auto;
+}
+
+h1 {
+  background-color: lightgreen;
+  margin-top: 1em;
+  padding: 1rem;
+}
+
+#navmenu ul {
+  list-style-type: none;
+  padding: 1em 0;
+  text-align: center;
+  border-top: 2px groove blue;
+  border-bottom: 2px groove blue;
+}
+
+#navmenu ul li {
+  display: inline;
+  padding: 0 1.5em;
+}
+
+#squares {
+  list-style: square;
+}
